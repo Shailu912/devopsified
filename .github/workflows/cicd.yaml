@@ -30,17 +30,24 @@ jobs:
         run: go test ./...
         working-directory: ./go-web-app-main
 
-  code-quality:
+    code-quality:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Set up Go 1.22.5
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.22.5
 
       - name: Run golangci-lint
         uses: golangci/golangci-lint-action@v6
         with:
           version: v1.56.2
           working-directory: ./go-web-app-main
+        env:
+          GOGC: 20
 
   push:
     runs-on: ubuntu-latest
