@@ -4,13 +4,14 @@ End-to-end DevOps pipeline for containerized microservices with GitHub Actions, 
 
 **📑 Table of Contents**
 
-About
-Technologies
-Conclusion
-Author
+## About
+## Technologies
+## Conclusion
+## Author
 
 
 **📌 About**
+
 Modern software delivery needs speed, security, and scalability. DevOpsified is a project that simulates a real-world production-grade DevOps workflow using a Go-based microservice.
 
 This pipeline demonstrates how a single code push can trigger a complete CI/CD workflow—from code build, vulnerability scanning, image packaging, infrastructure provisioning, all the way to Kubernetes deployment using GitOps.
@@ -19,6 +20,7 @@ The project automates infrastructure using Terraform on AWS (EKS, VPC, IAM), bui
 
 
 **🛠 Technologies**
+
 Go (Golang) – Lightweight web API service
 Docker – Containerization with multi-stage builds
 GitHub Actions – CI pipeline: build, test, scan, push
