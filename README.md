@@ -5,13 +5,16 @@ End-to-end DevOps pipeline for containerized microservices with GitHub Actions, 
 
 ![image](https://github.com/user-attachments/assets/3ef515ff-224e-475c-bf37-a4795b214ce0)
 
-
-## 📑 Table of Contents
-
-[<strong>About</strong>](#about)&nbsp;&nbsp;&nbsp;&nbsp;[<strong>Technologies</strong>](#technologies)&nbsp;&nbsp;&nbsp;&nbsp;[<strong>Conclusion</strong>](#conclusion)&nbsp;&nbsp;&nbsp;&nbsp;[<strong>Author</strong>](#author)
+---
 
 
+## 📑 Table of Contents  
+- [About](#about)  
+- [Technologies](#technologies)  
+- [Conclusion](#conclusion)  
+- [Author](#author) 
 
+---
 
 **About**
 
@@ -21,6 +24,7 @@ This pipeline demonstrates how a single code push can trigger a complete CI/CD w
 
 The project automates infrastructure using Terraform on AWS (EKS, VPC, IAM), builds and tests the Go app, pushes Docker images to ECR, and deploys the application using ArgoCD into Kubernetes. This model is aligned with industry-grade practices followed by MNCs and SRE teams for production-grade environments.
 
+---
 
 **Technologies**
 
@@ -31,9 +35,9 @@ Terraform – Infrastructure as Code (IaC) on AWS
 AWS EKS – Managed Kubernetes cluster
 Kubernetes – Orchestration, manifests, and Helm
 ArgoCD – GitOps continuous deployment
-Trivy / Clair – Security scanning
 SonarQube – Code quality analysis
 
+---
 
 **Conclusion**
 
@@ -47,6 +51,8 @@ Deploys app via ArgoCD
 
 This kind of pipeline reduces manual effort, improves developer confidence, and ensures that applications are shipped in a reliable and secure manner.
 Companies can leverage this approach for faster release cycles, automated rollbacks, and cloud-native scalability.
+
+---
 
 **Author**
 
