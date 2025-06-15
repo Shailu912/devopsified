@@ -2,6 +2,10 @@
 
 End-to-end DevOps pipeline for containerized microservices with GitHub Actions, Docker, Terraform, Kubernetes, and GitOps deployment via ArgoCD.
 
+
+![image](https://github.com/user-attachments/assets/3ef515ff-224e-475c-bf37-a4795b214ce0)
+
+
 **📑 Table of Contents**
 
 ## About
