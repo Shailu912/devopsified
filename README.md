@@ -16,7 +16,7 @@ End-to-end DevOps pipeline for containerized microservices with GitHub Actions, 
 
 ---
 
-**About**
+## About
 
 Modern software delivery needs speed, security, and scalability. DevOpsified is a project that simulates a real-world production-grade DevOps workflow using a Go-based microservice.
 
@@ -26,7 +26,7 @@ The project automates infrastructure using Terraform on AWS (EKS, VPC, IAM), bui
 
 ---
 
-**Technologies**
+## Technologies
 
 Go (Golang) – Lightweight web API service
 Docker – Containerization with multi-stage builds
@@ -39,7 +39,7 @@ SonarQube – Code quality analysis
 
 ---
 
-**Conclusion**
+## Conclusion
 
 The pipeline successfully demonstrates the Dev → CI → CD → Deploy journey using real-world tools and practices. A developer pushes code to GitHub, which automatically:
 Runs tests and static checks
@@ -54,6 +54,6 @@ Companies can leverage this approach for faster release cycles, automated rollba
 
 ---
 
-**Author**
+## Author
 
 Created by Sailaja Rowthu, please feel free to contact me at shailajarowthu@gmail.com, thank you for your time!
