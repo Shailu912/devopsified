@@ -28,14 +28,14 @@ The project automates infrastructure using Terraform on AWS (EKS, VPC, IAM), bui
 
 ## Technologies
 
-Go (Golang) – Lightweight web API service
-Docker – Containerization with multi-stage builds
-GitHub Actions – CI pipeline: build, test, scan, push
-Terraform – Infrastructure as Code (IaC) on AWS
-AWS EKS – Managed Kubernetes cluster
-Kubernetes – Orchestration, manifests, and Helm
-ArgoCD – GitOps continuous deployment
-SonarQube – Code quality analysis
+Go (Golang) – Lightweight web API service.
+Docker – Containerization with multi-stage builds.
+GitHub Actions – CI pipeline: build, test, scan, push.
+Terraform – Infrastructure as Code (IaC) on AWS.
+AWS EKS – Managed Kubernetes cluster.
+Kubernetes – Orchestration, manifests, and Helm.
+ArgoCD – GitOps continuous deployment.
+SonarQube – Code quality analysis.
 
 ---
 
