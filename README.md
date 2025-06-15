@@ -7,12 +7,12 @@ End-to-end DevOps pipeline for containerized microservices with GitHub Actions, 
 
 ---
 
+## 📑 Table of Contents
 
-## 📑 Table of Contents  
-- [About](#about)  
-- [Technologies](#technologies)  
-- [Conclusion](#conclusion)  
-- [Author](#author) 
+- [About](#about)
+- [Technologies](#technologies)
+- [Conclusion](#conclusion)
+- [Author](#author)
 
 ---
 
