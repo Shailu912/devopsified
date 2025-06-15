@@ -6,15 +6,10 @@ End-to-end DevOps pipeline for containerized microservices with GitHub Actions, 
 ![image](https://github.com/user-attachments/assets/3ef515ff-224e-475c-bf37-a4795b214ce0)
 
 
-**Table of Contents**
+## 📑 Table of Contents
 
-## About
+[<strong>About</strong>](#about)&nbsp;&nbsp;&nbsp;&nbsp;[<strong>Technologies</strong>](#technologies)&nbsp;&nbsp;&nbsp;&nbsp;[<strong>Conclusion</strong>](#conclusion)&nbsp;&nbsp;&nbsp;&nbsp;[<strong>Author</strong>](#author)
 
-## Technologies
-
-## Conclusion
-
-## Author
 
 
 
